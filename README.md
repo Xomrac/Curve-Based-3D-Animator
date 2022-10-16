@@ -4,6 +4,9 @@
 
 -Unity 2021.3.1f1
 
+# REQUISITES
+* "Editor Cororutines" Unity Package Installed in the project
+
 # HOW TO USE
 
 ## GET STARTED
